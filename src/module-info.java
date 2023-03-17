@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author famid
+ *
+ */
+module corejava {
+}
